@@ -9,7 +9,7 @@ const StoreContextProvider=(props)=>{
 
    
 
-    const url='http://localhost:4000';
+    const url='https://samad-zomato-project-backend.onrender.com';
 
     const [token,setToken]=useState("");
 
